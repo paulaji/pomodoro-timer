@@ -2,12 +2,17 @@
   color: brown;
   font-size: 200px;
 }
+
 #start {
   font-size: 100px;
 }
 #reset {
   font-size: 100px;
 }
+#break {
+  font-size: 100px;
+}
+
 #counter {
   font-size: 50px;
 }
